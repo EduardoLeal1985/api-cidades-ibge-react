@@ -1,0 +1,32 @@
+.form-box {
+  background-color: #7E4192;
+  padding: 1rem;
+  margin: 2rem auto;
+  width: 50rem;
+  max-width: 95%;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 1px 8px rgb(0 0 0 / 25%);
+}
+
+.form-box select {
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  width: 20rem;
+  max-width: 100%;
+  margin-bottom: 0.6rem;
+}
+
+.form-box button {
+  font: inherit;
+  padding: 0.5rem;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  width: 20rem;
+  max-width: 100%;
+  color: #fff;
+  background-color: #3C1E45;
+  cursor: pointer;
+}
